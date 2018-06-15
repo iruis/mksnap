@@ -1,2 +1,2 @@
 # mksnap
-create btrfs snapshot
+btrfs 스냅샷 생성 프로그램
